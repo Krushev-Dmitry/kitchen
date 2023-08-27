@@ -2,8 +2,9 @@
     "applinks": {
         "apps": [],
         "details": [
-            "8KB7NN3L2J.ru.ricers.kitchen": {
-                "paths": [ "*" ]
+            {
+                "appID": "8KB7NN3L2J.ru.ricers.kitchen",
+                "paths": ["kitchen/ios-app-open"]
             }
         ]
     }
