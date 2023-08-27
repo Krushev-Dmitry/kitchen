@@ -1,11 +1,10 @@
-
 {
     "applinks": {
         "apps": [],
         "details": [
             {
                 "appID": "8KB7NN3L2J.ru.ricers.kitchen",
-                "paths": [ "/ios-app-open" ]
+                "paths": [ "*" ]
             }
         ]
     }
